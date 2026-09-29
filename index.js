@@ -1705,8 +1705,7 @@ function buildTelegramMessage(
             details.overview
         );
 
-    return `PARE LAWEN MEYNING JOB POST 😎.
-PARE SIPAGAN MU PARA MIKWALTA KATA   
+    return `JOB POST 😎.
     
 ${job.title}
     
