@@ -35,7 +35,6 @@ const SCANNED_JOBS_FILE =
 
 
 const TARGET_KEYWORDS = [
-    "video editor",
     "next.js",
     "nextjs",
     "next js",
@@ -1706,7 +1705,8 @@ function buildTelegramMessage(
             details.overview
         );
 
-    return ` PARE LAWEN MEYNING JOB POST 😎   
+    return `PARE LAWEN MEYNING JOB POST 😎.
+PARE SIPAGAN MU PARA MIKWALTA KATA   
     
 ${job.title}
     
