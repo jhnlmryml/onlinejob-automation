@@ -1721,7 +1721,7 @@ JOB OVERVIEW
 ${overview}
 
 SKILL REQUIREMENT
-${details.skills}
+${details.skills.join("\n")}
 
 ${job.url}`;
 }
